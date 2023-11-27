@@ -1,0 +1,10 @@
+Package: CustomizedDataStructureLibrary
+Version: 1.0
+Section: custom
+Priority: optional
+Architecture: all
+Maintainer: Prasad Sarwar, Prasad Wable, Jayash Jadhav
+Description: The Customized Data Structure Library is a comprehensive collection of versatile data structures, including linked lists, trees, and graphs. This library is meticulously crafted to facilitate seamless integration with various data types, such as integers, strings, and custom objects. Its design eliminates the need for rewriting data structures for each specific data type, promoting code reusability and maintainability.
+
+
+
